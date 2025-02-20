@@ -60,7 +60,3 @@ Java语言，Mysql数据库，代码无加密
 ![extending-a-theme](/lianxi.png)
 
 
-#### 联系我们
-
-![extending-a-theme](/lianxi.jpg)
-
